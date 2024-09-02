@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff51fe420fd4cd0e",
+        "id": "3c677341599aeed6",
         "type": "tabs",
         "children": [
           {
-            "id": "e6fad49d41cb22f5",
+            "id": "14cbcef719c1936b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 2024-B/Arquitectura de computadoras/28 de agosto de 2024.md",
+                "file": "Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 2024-B/Arquitectura de computadoras/28 de agosto de 2024.md",
+                "file": "Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 2024-B/Arquitectura de computadoras/28 de agosto de 2024.md",
+                "file": "Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 2024-B/Arquitectura de computadoras/28 de agosto de 2024.md"
+                "file": "Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md"
               }
             }
           }
@@ -146,15 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6fad49d41cb22f5",
+  "active": "14cbcef719c1936b",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240830114927.png",
+    "Assets/Pasted image 20240830114214.png",
+    "Assets/Pasted image 20240830114139.png",
+    "Assets/Pasted image 20240830113923.png",
+    "Assets/Pasted image 20240830111723.png",
+    "Assets/Pasted image 20240830111533.png",
+    "Assets/Pasted image 20240830111416.png",
+    "Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
+    "Semestre 2024-B/Arquitectura de computadoras/28 de agosto 2024.md",
+    "Semestre 2024-B/Graficación/29 de agosto 2024.md",
     "Semestre 2024-B/Graficación/27 de agosto 2024.md",
-    "Semestre 2024-B/Arquitectura de computadoras/28 de agosto de 2024.md",
+    "Semestre 2024-B/Arquitectura de computadoras/29 de agosto 2024.md",
+    "Assets/Pasted image 20240829113817.png",
+    "Assets/Pasted image 20240829113635.png",
+    "Assets/Pasted image 20240829113310.png",
+    "Assets/Pasted image 20240829113232.png",
     "Semestre 2024-B/Arquitectura de computadoras/27 de agosto 2024.md",
-    "Assets/Pasted image 20240827114435.png",
-    "Assets/Pasted image 20240827112331.png",
     "Assets",
-    "Assets/Pasted image 20240827111356.png",
     "Semestre 2024-B/Arquitectura de computadoras/26 de agosto 2024.md",
     "Semestre 2024-B/Cultura empresarial/Cuadrante del dinero.md",
     "Semestre 2024-B/Cultura empresarial/Análisis Ishikagua.md",
