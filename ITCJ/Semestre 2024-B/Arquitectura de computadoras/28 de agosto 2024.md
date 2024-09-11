@@ -1,3 +1,5 @@
+Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
+Siguiendo [[27 de agosto 2024]]... 
 ## Instrucciones Set Architecture
 La arquitectura del set de instrucciones (ISA) determina el formato de las instrucciones, los tipos de datos que puede operar, las distintas formas de obtener datos de memoria (que son llamadas "modo de direccionamiento") y la forma en que se atienden eventos externos (interruptores).
 

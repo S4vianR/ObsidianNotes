@@ -1,3 +1,5 @@
+Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
+Siguiendo [[26 de agosto 2024]]... 
 # Arquitectura de computadoras
 
 ## Unidad 1. Arquitecturas de cómputo

@@ -1,3 +1,6 @@
+Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
+# Arquitectura de computadoras
+
 ## Ing. Flora Mayela Trejo Castillo
 **Correos**:
 - ftrejo@itcj.edu.mx

@@ -1,3 +1,4 @@
+Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[28 de agosto 2024]]... 
 
 ![[Pasted image 20240829112601.png]]
