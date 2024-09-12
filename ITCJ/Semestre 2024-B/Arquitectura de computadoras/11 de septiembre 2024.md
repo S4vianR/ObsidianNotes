@@ -66,3 +66,5 @@ Se establecen prioridades...
 11. Continúa la ejecución del prorgrama que fue interrumpido.
 
 El tratamiento de las interrupciones NMI es similar a las enmascarables, con la diferencia que se atienden aún estando el CPU con las interrupciones inhibidas.
+
+![[Pasted image 20240911114124.png]]
