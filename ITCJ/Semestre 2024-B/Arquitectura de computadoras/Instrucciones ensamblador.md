@@ -54,8 +54,9 @@ AAM = Hexa -> Dec
 AAD = Dec -> Hexa
 
 ## Arreglos
-CX -> Es el registro contador
-SI -> Es el registro del índice
+Registro CX -> Es el registro contador
+Registro SI -> Registro índice fuente
+Registro DI -> Registro índice destino
 
 ## Salto de linea
 ```asm
@@ -76,4 +77,3 @@ mov ah, 02h
 mov dl, 20h
 int 21h 
 ```
-
