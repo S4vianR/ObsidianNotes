@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
-Siguiendo [[3 de septiembre 2024]]
+Siguiendo [[3 de septiembre 2024]]...
+Subtema AdC.
 
 ## DRAM
 La RAM dinámica debe ser refrescada dinámicamente todo el tiempo o pierde lo que está almacenado (los bits).

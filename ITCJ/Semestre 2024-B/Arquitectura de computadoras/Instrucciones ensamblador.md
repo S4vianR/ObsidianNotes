@@ -1,5 +1,5 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
-
+Subtema AdC.
 
 ### Mostrar un mensaje
 ```asm

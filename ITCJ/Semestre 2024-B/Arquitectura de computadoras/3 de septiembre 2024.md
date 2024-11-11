@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[2 de septiembre 2024]]... 
+Subtema AdC.
 
 [[2 de septiembre 2024#El procesador (CPU)]]
 ## Unidad de control

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dabd3f9a53bb8b68",
+        "id": "09f73eee6a423a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5d474052156bed",
+            "id": "6dfcc892e27e1f65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
-                "mode": "preview",
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/8 de noviembre de 2024.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "8 de noviembre de 2024"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "no enmascarables",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,11 +68,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Instrucciones ensamblador"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7 de noviembre 2024"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,11 +139,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md"
-              }
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7 de noviembre 2024"
+            }
+          },
+          {
+            "id": "5fbda9f86c6801f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,21 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5d474052156bed",
+  "active": "6dfcc892e27e1f65",
   "lastOpenFiles": [
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/10 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/5 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/2 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/27 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/6 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/3 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-A/Reuben Allen Rhienhart Perez -  Evaluacion TSO.md",
+    "ITCJ/Semestre 2024-A/Preguntas a un administrador de base de datos.md",
+    "ITCJ/Welcome.md",
+    "README.md",
+    "ITCJ/Semestre 2024-B/Graficación/Graficación.md",
+    "ITCJ/Semestre 2024-B/Graficación/27 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Graficación/26 de agosto 2024 - Presentación.md",
+    "ITCJ/Semestre 2024-B/Graficación/8 de octubre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/28 de agosto 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/29 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/28 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/26 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/27 de agosto 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/17 de septiembre 2024.md",
-    "ITCJ/Assets/Pasted image 20240917112847.png",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/12 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/10 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/8 de noviembre de 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/6 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/5 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/3 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/2 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Graficación/29 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Arquitectura de computadoras.md",
+    "ITCJ/Assets/Pasted image 20240917112847.png",
     "ITCJ/Assets/Pasted image 20240912181051.png"
   ]
 }

@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[10 de septiembre 2024]]...
+Subtema AdC.
 
 ## Memory address
 Además del I/O address, algunos dispositivos requieren un block de memoria en la parte alta de la misma para uso particular.

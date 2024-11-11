@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[10 de septiembre 2024]]...
+Subtema AdC.
 
 ### Las interrupciones son:
 **No enmascarables**: RESET, BERR (Bus Error), Non Maskarable Interruption  (NMI).

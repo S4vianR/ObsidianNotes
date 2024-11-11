@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[12 de septiembre 2024]]...
+Subtema AdC.
 
 La velocidad de los procesadores aumenta según la tecnología va avanzando, mientras que la velocidad de las tarjetas para expandir el hardware permanece relativamente constante. No es práctico rediseñar y reemplazar cada tarjeta cada vez que un nuevo procesador sale al mercado. Esto sería muy complicado y caro para los fabricantes.
 

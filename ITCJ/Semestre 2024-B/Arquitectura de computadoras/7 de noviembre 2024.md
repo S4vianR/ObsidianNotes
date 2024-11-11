@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[17 de septiembre 2024]]...
+Subtema AdC.
 
 # Unidad 4
 ## Computación Paralela

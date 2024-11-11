@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[29 de agosto 2024]]... 
+Subtema AdC.
 # Introducción a la lógica digital
 Cuatro componentes primarios son utilizados virtualmente en cada circuito electrónico dentro de la computadora. Cada uno de estos componentes provee específicamente diferentes funciones para cada circuito.
 

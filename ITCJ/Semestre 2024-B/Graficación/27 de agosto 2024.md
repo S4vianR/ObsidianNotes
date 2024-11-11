@@ -1,3 +1,6 @@
+Materia: Graficacion [[Graficación]] 
+Siguiendo: [[26 de agosto 2024 - Presentación]]
+Subtema Graficación.
 # Tema 1: Introducción al curso
 ## Objetivo General
 Al final del curso el estudiante contará con los conocimientos fundamentales para la aplicación de la graficación desde la base matemática necesaria hasta el conocimiento de librerías gráficas utilizadas a nivel mundial, como OpenGL en lenguajes como C, C++, C# y Java para modelar en 2D y 3D soluciones a problemas reales.

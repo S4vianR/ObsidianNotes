@@ -2,6 +2,9 @@
 OpenGL - C++ / Java / C#
 WebGL - Javascript
 
+Materia: Graficacion [[Graficación]] 
+Subtema Graficación.
+
 ## Objetivo General
 El estudiante al final del curso adquiere los conocimientos fundamentales para la graficación desde la base matemática necesaria hasta el conocimiento de librerías gráficas utilizadas a nivel mundial con OpenGL en lenguajes C/C++/C#/Java para resolver problemas del entorno 2D y 3D.
 

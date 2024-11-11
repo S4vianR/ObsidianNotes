@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[5 de septiembre 2024]]...
+Subtema AdC.
 
 ## BIOS
 B -> Basic

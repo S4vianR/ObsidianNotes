@@ -1,4 +1,5 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
+Subtema AdC.
 # Arquitectura de computadoras
 
 ## Ing. Flora Mayela Trejo Castillo

@@ -1,5 +1,6 @@
 Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[6 de septiembre 2024]]...
+Subtema AdC.
 
 ## Manejo de entrada y salida
 El procesador controla en parte o completamente las actividades de todos los dispositivos que están integrados o conectados al motherboard de la PC.
