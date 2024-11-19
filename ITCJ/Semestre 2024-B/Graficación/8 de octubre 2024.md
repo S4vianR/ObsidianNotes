@@ -1,4 +1,4 @@
-Materia: Graficacion [[Graficación]] 
+Materia: [[Graficación]] 
 Siguiendo: [[ITCJ/Semestre 2024-B/Graficación/27 de agosto 2024|27 de agosto 2024]]
 Subtema Graficación.
 

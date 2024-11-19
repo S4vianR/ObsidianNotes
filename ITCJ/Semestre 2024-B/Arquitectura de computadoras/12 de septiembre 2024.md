@@ -1,7 +1,6 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
-Siguiendo [[10 de septiembre 2024]]...
+Siguiendo [[11 de septiembre 2024]]...
 Subtema AdC.
-
+Mes: [[Septiembre]]
 ### Las interrupciones son:
 **No enmascarables**: RESET, BERR (Bus Error), Non Maskarable Interruption  (NMI).
 **Enmascarables**: ENABLE, DISABLE -> Flag en Reg. Estado

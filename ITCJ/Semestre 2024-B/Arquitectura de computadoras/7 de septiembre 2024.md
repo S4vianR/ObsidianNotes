@@ -1,7 +1,6 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[17 de septiembre 2024]]...
 Subtema AdC.
-
+Mes: [[Septiembre]]
 # Unidad 4
 ## Computación Paralela
 Cuando se habla de procesamiento paralelo, la idea central es multiplicar la cantidad de "unidades de ejecución" que funcionen concurrentemente ya sea ejecutando instrucciones en paralelo o ejecutando....

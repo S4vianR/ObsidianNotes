@@ -1,5 +1,5 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Subtema AdC.
+Mes: [[Agosto]]
 # Arquitectura de computadoras
 
 ## Ing. Flora Mayela Trejo Castillo

@@ -1,4 +1,4 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
+Mes: [[Septiembre]]
 Siguiendo [[6 de septiembre 2024]]...
 Subtema AdC.
 

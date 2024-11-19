@@ -1,7 +1,6 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[30 de agosto 2024]]... 
 Subtema AdC.
-
+Mes: [[Septiembre]]
 ## El procesador (CPU)
 El procesamiento de datos e instrucciones es manejado en un ciclo de máquina.
 

@@ -1,7 +1,6 @@
-Materia: Arquitectura de computadoras [[Arquitectura de computadoras]]
 Siguiendo [[5 de septiembre 2024]]...
 Subtema AdC.
-
+Mes: [[Septiembre]]
 ## BIOS
 B -> Basic
 I -> Input
