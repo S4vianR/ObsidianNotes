@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f26822f73a2cf323",
+        "id": "a9230dfcc6d106e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b805e43c39124e34",
+            "id": "5f22c2e3756012bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "19 de noviembre 2024"
+              "title": "New tab"
             }
           }
         ]
@@ -44,6 +40,9 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -53,11 +52,15 @@
               "type": "search",
               "state": {
                 "query": "",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -71,8 +74,12 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
+        ]
         ]
       }
     ],
@@ -94,6 +101,7 @@
               "type": "backlink",
               "state": {
                 "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +109,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Instrucciones ensamblador"
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Instrucciones ensamblador"
@@ -113,8 +124,12 @@
               "type": "outgoing-link",
               "state": {
                 "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md",
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7 de noviembre 2024"
               },
               "icon": "links-going-out",
               "title": "Outgoing links from 7 de noviembre 2024"
@@ -128,6 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -153,8 +171,24 @@
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
+                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7 de noviembre 2024"
+            }
+          },
+          {
+            "id": "5fbda9f86c6801f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
+        ],
+        "currentTab": 4
         ],
         "currentTab": 4
       }
@@ -173,41 +207,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b805e43c39124e34",
+  "active": "5f22c2e3756012bd",
   "lastOpenFiles": [
-    "ITCJ/Semestre 2024-B/Graficación/27 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/8 de noviembre de 2024.md",
+    "Respuestas - EPVR.md",
+    "ITCJ/Semestre 2024-A/Reuben Allen Rhienhart Perez -  Evaluacion TSO.md",
+    "ITCJ/Semestre 2024-A/Preguntas a un administrador de base de datos.md",
+    "ITCJ/Welcome.md",
+    "README.md",
     "ITCJ/Semestre 2024-B/Graficación/Graficación.md",
+    "ITCJ/Semestre 2024-B/Graficación/27 de agosto 2024.md",
     "ITCJ/Semestre 2024-B/Graficación/26 de agosto 2024 - Presentación.md",
     "ITCJ/Semestre 2024-B/Graficación/8 de octubre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/29 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/28 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/26 de agosto 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/27 de agosto 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/17 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/15 de noviembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/14 de noviembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/13 de noviembre 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/12 de septiembre 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/11 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/3 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/2 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/29 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/30 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Agosto.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/28 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/27 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/26 de agosto 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/8 de noviembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Septiembre.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/10 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de noviembre 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/6 de septiembre 2024.md",
     "ITCJ/Semestre 2024-B/Arquitectura de computadoras/5 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/10 de septiembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/9 de noviembre 2024.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/7 de septiembre 2024.md",
-    "ITCJ/Assets/Pasted image 20241115112048.png",
-    "ITCJ/Assets/Pasted image 20241114113557.png",
-    "ITCJ/Assets/Pasted image 20241114113423.png",
-    "ITCJ/Assets/Pasted image 20241114113414.png",
-    "ITCJ/Assets/Pasted image 20241114113404.png",
-    "ITCJ/Assets/Pasted image 20241114113332.png",
-    "ITCJ/Assets/Pasted image 20241113113037.png",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/3 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/2 de septiembre 2024.md",
+    "ITCJ/Semestre 2024-B/Graficación/29 de agosto 2024.md",
     "ITCJ/Assets/Pasted image 20240917112847.png",
     "ITCJ/Assets/Pasted image 20240912181051.png"
   ]
