@@ -41,6 +41,34 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "Unidad 4",
+      "color": {
+        "a": 1,
+        "rgb": 13446469
+      }
+    },
+    {
+      "query": "semestre2025-A",
+      "color": {
+        "a": 1,
+        "rgb": 12669664
+      }
+    },
+    {
+      "query": "Enero",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    },
+    {
+      "query": "Talle de investigacion I",
+      "color": {
+        "a": 1,
+        "rgb": 5431420
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +81,6 @@
   "repelStrength": 13.6590436590437,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3346213142094395,
+  "scale": 0.19253860940758022,
   "close": false
 }
