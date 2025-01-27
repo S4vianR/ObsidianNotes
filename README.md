@@ -1,3 +1,3 @@
 # ObsidianNotes
 
-This are my personal notes
+This are my personal school notes.
