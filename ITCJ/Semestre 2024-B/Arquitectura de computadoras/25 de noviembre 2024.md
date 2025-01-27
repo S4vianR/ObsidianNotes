@@ -21,7 +21,7 @@ Generalmente, en los Clúster existe una máquina que funciona como **nodo-maest
 Este tipo de clúster está diseñado para obtener el máximo rendimiento de la aplicación utilizada, incluso a costa de la disponibilidad del sistema, es decir, el clúster puede sufrir caídas. Este tipo de configuración está orientada a procesos que requieran mucha capacidad de cálculo.
 
 ## Alta disponibilidad (HACC o Fail-Over)
-Este tipo de clúster está diseñado para mantener uno o varios servicios disponibles, incluso a costa de rendimiento ya que su foco principal es que el servicio jamás tenga interrupciones, como es el caso de una base datos.
+Este tipo de clúster está diseñado para mantener uno o varios servicios disponibles, incluso a costa de rendimiento ya que su foco principal es que el servicio jamás tenga interrupciones, como es el caso de una base de datos.
 
 ## Balance de carga (HTCC o Load-Balancing)
 Este tipo de clúster está diseñado para balancear la carga de trabajo entre varios servidores; esto permite tener, por ejemplo, un sitio Web sin caídas por una carga excesiva de peticiones en un momento dado. Actualmente un clúster load-balancing es un fail-over, con el extra del balanceo de la carga y con mayor número de nodos.

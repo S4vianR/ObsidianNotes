@@ -18,13 +18,13 @@ Los datos se transforman en pulsos de luz emitida por un láser del tamaño de l
 Acción de establecer una vía, un camino de extremo a extremo entre dos puntos, un emisor y un receptor a través de nodos o equipos de transmisión. La conmutación permite la entrega de la señal desde el origen al destino.
 
 ### ¿Cómo funcionan?
-Las comunicación entre un host origen y un host destino se realiza mediante la transmisión de datos a través de una red de nodos de comunicación intermedios.
+La comunicación entre un host origen y un host destino se realiza mediante la transmisión de datos a través de una red de nodos de comunicación intermedios.
 
 Cada nodo intermedio almacena los datos temporalmente antes de enviarlos.
 
 Los dispositivos finales son computadoras, terminales, teléfonos, etc.
 
-Son las rede de área extensa.
+Son las redes de área extensa.
 
 ![[Pasted image 20241115112048.png]]
 
