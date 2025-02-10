@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba69655e9c4f30a",
+        "id": "9dcf4b3d8fd74908",
         "type": "tabs",
         "children": [
           {
-            "id": "06f4bf742ba2477f",
+            "id": "789537f731b6913e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
+                "file": "HackTheBox_Academy/Cheatsheets/Footprinting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 de noviembre 2024"
-            }
-          },
-          {
-            "id": "63cad24b0ffdb6e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITCJ/Semestre 2025-A/Taller de investigación I/5 de febrero 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 de febrero 2025"
+              "title": "Footprinting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "foot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,16 +159,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3505df62f91280c",
+  "active": "789537f731b6913e",
   "lastOpenFiles": [
+    "HackTheBox_Academy/Footprinting/Footprinting - notes.md",
+    "HackTheBox_Academy/Cheatsheets/Footprinting.md",
+    "HackTheBox_Academy/Cheatsheets",
+    "crt.sh.md",
     "HackTheBox_Academy/Lista de cursos.md",
+    "HackTheBox_Academy/Footprinting",
+    "HackTheBox_Academy/HackTheBox_Academy.md",
     "HackTheBox_Academy/Enero.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/5 de febrero 2025.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Lenguajes y automatas I.md",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Enero.md",
-    "HackTheBox_Academy/HackTheBox_Academy.md",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/6 de febrero.md",
     "HackTheBox_Academy",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/5 de febrero 2025.md",
@@ -208,13 +200,8 @@
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/29 de enero 2025.md",
     "ITCJ/Assets/Pasted image 20250129192252.png",
     "ITCJ/Assets/Pasted image 20250129192243.png",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Fundamentos a la ciberseguridad.md",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Lenguajes de interfaz.md",
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad",
-    "ITCJ/Semestre 2025-A/Lenguajes de interfaz/27 de enero 2025.md",
-    "ITCJ/Semestre 2025-A/Lenguajes de interfaz/Enero.md",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I",
-    "ITCJ/Semestre 2025-A/Taller de investigación I/28 de enero 2025 - Idea de proyecto investigación.md",
     "ITCJ/Assets/Pasted image 20250127152638.png",
     "ITCJ/Assets/Pasted image 20250127152630.png",
     "ITCJ/Assets/Pasted image 20250127152618.png",
