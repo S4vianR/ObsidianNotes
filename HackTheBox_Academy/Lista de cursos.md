@@ -4,7 +4,7 @@ Mes: [[HackTheBox_Academy/Enero|Enero]]
 ## Cursos a tomar
 
 ### Pre-Engagement
-- [ ] Learning process.
+- [x] Learning process.
 - [ ] Linux fundamentals.
 - [ ] Windows fundamentals.
 - [ ] Introduction to networking.
@@ -16,7 +16,7 @@ Mes: [[HackTheBox_Academy/Enero|Enero]]
 
 ### Information Gathering
 - [ ] Network Enumeration with Nmap
-- [ ] Footprinting.
+- [x] Footprinting.
 - [ ] Information Gathering - Web Edition.
 
 ### Vulnerability Assessment
@@ -51,7 +51,7 @@ Mes: [[HackTheBox_Academy/Enero|Enero]]
 Since both ***Lateral Movement*** and ***Pillaging*** require access to an already exploited system, these techniques and methods are covered in different modules, such as ***Getting Started***, ***Linux Privilege Escalation***, and ***Windows Privilege Escalation***, and many others.
 
 ### Proof-of-Concept
-- [ ] Introduction to Python - [ ]
+- [ ] Introduction to Python
 
 ### Post-Engagement
 - [ ] Documentation & Reporting.
