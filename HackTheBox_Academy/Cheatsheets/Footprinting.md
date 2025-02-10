@@ -1,4 +1,3 @@
-
 ## Infrastructure-based Enumeration
 
 | **Command**                                                         | **Description**                              |
