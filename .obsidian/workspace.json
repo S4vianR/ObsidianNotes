@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9dcf4b3d8fd74908",
+        "id": "32cd268960cb54a0",
         "type": "tabs",
         "children": [
           {
-            "id": "789537f731b6913e",
+            "id": "89ea4dccf57f10d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox_Academy/Cheatsheets/Footprinting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Footprinting"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "789537f731b6913e",
+  "active": "89ea4dccf57f10d8",
   "lastOpenFiles": [
     "HackTheBox_Academy/Footprinting/Footprinting - notes.md",
     "HackTheBox_Academy/Cheatsheets/Footprinting.md",
