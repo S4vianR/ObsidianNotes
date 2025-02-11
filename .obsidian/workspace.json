@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,12 +161,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89ea4dccf57f10d8",
+  "active": "63cad24b0ffdb6e6",
   "lastOpenFiles": [
-    "HackTheBox_Academy/Footprinting/Footprinting - notes.md",
-    "HackTheBox_Academy/Cheatsheets/Footprinting.md",
-    "HackTheBox_Academy/Cheatsheets",
-    "crt.sh.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/28 de enero - clase.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
     "HackTheBox_Academy/Lista de cursos.md",
     "HackTheBox_Academy/Footprinting",
     "HackTheBox_Academy/HackTheBox_Academy.md",
@@ -189,7 +188,6 @@
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/4 de febrero 2025.md",
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/30 de enero 2025.md",
     "Untitled.md",
-    "ITCJ/Semestre 2025-A/Taller de investigación I/28 de enero - clase.md",
     "ITCJ/Semestre 2025-A/Taller de investigación I/27 de enero 2025.md",
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/29 de enero 2025.md",
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Enero.md",
