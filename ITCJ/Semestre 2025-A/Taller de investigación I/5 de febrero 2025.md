@@ -1,4 +1,4 @@
-Mes: [[ITCJ/Semestre 2025-A/Taller de investigación I/Enero|Enero]]
+Mes: [[ITCJ/Semestre 2025-A/Taller de investigación I/Febrero|Febrero]]
 Subtema TdI
 
 ### Investigación diagnóstica
