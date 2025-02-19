@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "5 de febrero 2025"
             }
+          },
+          {
+            "id": "6a02bac0f343db49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63cad24b0ffdb6e6",
+  "active": "6a02bac0f343db49",
   "lastOpenFiles": [
     "ITCJ/Semestre 2025-A/Taller de investigación I/4 de febrero 2025.md",
     "ITCJ/Semestre 2025-A/Taller de investigación I/5 de febrero 2025.md",
