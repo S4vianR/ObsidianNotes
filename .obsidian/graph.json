@@ -2,72 +2,121 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Subtema AdC",
       "color": {
         "a": 1,
-        "rgb": 5739457
+        "rgb": 1805223
       }
     },
     {
       "query": "Arquitectura",
       "color": {
         "a": 1,
-        "rgb": 3811023
+        "rgb": 2119570
       }
     },
     {
-      "query": "Subtema Graficación",
+      "query": "Subtema TdI",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 10531961
       }
     },
     {
-      "query": "Graficación",
+      "query": "Subtema LdI",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 12924368
       }
     },
     {
-      "query": "ObsidianNotes",
+      "query": "Subtema LyAI",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431511
       }
     },
     {
-      "query": "Unidad 4",
+      "query": "Subtema FaC",
       "color": {
         "a": 1,
-        "rgb": 13446469
+        "rgb": 14725458
       }
     },
     {
-      "query": "semestre2025-A",
+      "query": "Subtema ServSoc",
       "color": {
         "a": 1,
-        "rgb": 12669664
+        "rgb": 10472380
+      }
+    },
+    {
+      "query": "Servicio Social",
+      "color": {
+        "a": 1,
+        "rgb": 15856916
+      }
+    },
+    {
+      "query": "Subtema HTBAcademy",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     },
     {
       "query": "Enero",
       "color": {
         "a": 1,
-        "rgb": 5422560
+        "rgb": 15128964
       }
     },
     {
-      "query": "Talle de investigacion I",
+      "query": "Taller de investigacion I",
       "color": {
         "a": 1,
-        "rgb": 5431420
+        "rgb": 3913019
+      }
+    },
+    {
+      "query": "Lenguajes de interfaz",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Lenguajes y automatas I",
+      "color": {
+        "a": 1,
+        "rgb": 15650091
+      }
+    },
+    {
+      "query": "Fundamentos a la ciberseguridad",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Semestre 2025-A",
+      "color": {
+        "a": 1,
+        "rgb": 14229536
+      }
+    },
+    {
+      "query": "HackTheBox_Academy",
+      "color": {
+        "a": 1,
+        "rgb": 5498398
       }
     }
   ],
@@ -77,10 +126,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 13.6590436590437,
+  "centerStrength": 0.579002079002079,
+  "repelStrength": 19.8960498960499,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.19253860940758022,
+  "linkDistance": 118,
+  "scale": 1.3417808620518403,
   "close": false
 }

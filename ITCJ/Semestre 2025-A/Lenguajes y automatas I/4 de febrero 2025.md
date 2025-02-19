@@ -1,4 +1,4 @@
-Mes: [[ITCJ/Semestre 2025-A/Lenguajes y automatas I/Enero|Enero]]
+Mes: [[ITCJ/Semestre 2025-A/Lenguajes y automatas I/Febrero|Febrero]]
 Subtema LyAI.
 
 ## Actividad
