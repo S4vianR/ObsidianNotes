@@ -78,6 +78,20 @@
       }
     },
     {
+      "query": "Febrero",
+      "color": {
+        "a": 1,
+        "rgb": 15152127
+      }
+    },
+    {
+      "query": "Marzo",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
       "query": "Taller de investigacion I",
       "color": {
         "a": 1,
@@ -130,6 +144,6 @@
   "repelStrength": 19.8960498960499,
   "linkStrength": 1,
   "linkDistance": 118,
-  "scale": 1.3417808620518403,
+  "scale": 0.8388981142033897,
   "close": false
 }

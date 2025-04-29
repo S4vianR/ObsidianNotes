@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32cd268960cb54a0",
+        "id": "2c6b40587ff23ee6",
         "type": "tabs",
         "children": [
           {
-            "id": "89ea4dccf57f10d8",
+            "id": "1b799ad8c135026d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foot",
+                "query": "instrucciones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,42 +168,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6a02bac0f343db49",
+  "active": "63cad24b0ffdb6e6",
   "lastOpenFiles": [
-    "ITCJ/Semestre 2025-A/Taller de investigación I/28 de enero - clase.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Abril.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Febrero.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/20 de marzo 2025.md",
+    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/Instrucciones ensamblador.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Marzo.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/U.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Febrero.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/30 de enero 2025.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/6 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/18 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/4 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/30 de enero 2025.md",
+    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/29 de enero 2025.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/28 de enero 2025 - Idea de proyecto investigación.md",
     "HackTheBox_Academy/Lista de cursos.md",
-    "HackTheBox_Academy/Footprinting",
-    "HackTheBox_Academy/HackTheBox_Academy.md",
-    "HackTheBox_Academy/Enero.md",
-    "ITCJ/Semestre 2025-A/Taller de investigación I/5 de febrero 2025.md",
-    "ITCJ/Semestre 2024-B/Arquitectura de computadoras/19 de noviembre 2024.md",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Lenguajes y automatas I.md",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/Enero.md",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/6 de febrero.md",
-    "HackTheBox_Academy",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/17 de febrero 2025.md",
     "ITCJ/Semestre 2025-A/Lenguajes y automatas I/5 de febrero 2025.md",
-    "ITCJ/Servicio Social/Flyer Solidworks.md",
-    "ITCJ/Servicio Social/Infografía MOOCs.md",
-    "ITCJ/Servicio Social/Servicio Social.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/4 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/5 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/4 de febrero 2025.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/Febrero.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/Taller de investigacion I.md",
+    "ITCJ/Semestre 2025-A/Taller de investigación I/Enero.md",
+    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/14 de febrero 2025.md",
+    "ITCJ/Simulación.md",
+    "crt.sh.md",
+    "HackTheBox_Academy/Footprinting",
+    "HackTheBox_Academy",
     "ITCJ/Assets/Pasted image 20250205173016.png",
     "ITCJ/Assets/Pasted image 20250205172953.png",
     "ITCJ/Assets/Pasted image 20250205172651.png",
-    "ITCJ/Semestre 2025-A/Taller de investigación I/4 de febrero 2025.md",
     "ITCJ/Servicio Social",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/4 de febrero 2025.md",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/4 de febrero 2025.md",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/30 de enero 2025.md",
-    "Untitled.md",
-    "ITCJ/Semestre 2025-A/Taller de investigación I/27 de enero 2025.md",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/29 de enero 2025.md",
-    "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad/Enero.md",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/30 de enero 2025.md",
-    "ITCJ/Semestre 2025-A/Lenguajes y automatas I/29 de enero 2025.md",
     "ITCJ/Assets/Pasted image 20250129192252.png",
     "ITCJ/Assets/Pasted image 20250129192243.png",
     "ITCJ/Semestre 2025-A/Fundamentos a la ciberseguridad",
