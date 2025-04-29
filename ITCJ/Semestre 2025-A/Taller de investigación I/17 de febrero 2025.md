@@ -1,6 +1,5 @@
 Mes: [[ITCJ/Semestre 2025-A/Taller de investigación I/Febrero|Febrero]]
 Subtema TdI
-
 ## Técnicas e instrumentos para la recolección de datos
 ### La observación
 *Registro visual de una situación real; consignando los acontecimientos según algún esquema visto.*
