@@ -1,5 +1,5 @@
 Subtema AdC.
-Mes: [[Agosto]]
+Mes: [[ITCJ/Semestre 2024-B/Arquitectura de computadoras/Agosto]]
 # Arquitectura de computadoras
 
 ## Ing. Flora Mayela Trejo Castillo

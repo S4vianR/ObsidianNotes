@@ -1,6 +1,6 @@
 Siguiendo [[28 de agosto 2024]]... 
 Subtema AdC.
-Mes: [[Agosto]]
+Mes: [[ITCJ/Semestre 2024-B/Arquitectura de computadoras/Agosto]]
 
 ![[Pasted image 20240829112601.png]]
 

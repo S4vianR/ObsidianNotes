@@ -1,6 +1,6 @@
 Siguiendo [[26 de agosto 2024]]... 
 Subtema AdC.
-Mes: [[Agosto]]
+Mes: [[ITCJ/Semestre 2024-B/Arquitectura de computadoras/Agosto]]
 # Arquitectura de computadoras
 
 ## Unidad 1. Arquitecturas de cómputo

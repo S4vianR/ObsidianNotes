@@ -1,6 +1,6 @@
 Siguiendo [[29 de agosto 2024]]... 
 Subtema AdC.
-Mes: [[Agosto]]
+Mes: [[ITCJ/Semestre 2024-B/Arquitectura de computadoras/Agosto]]
 # Introducción a la lógica digital
 Cuatro componentes primarios son utilizados virtualmente en cada circuito electrónico dentro de la computadora. Cada uno de estos componentes provee específicamente diferentes funciones para cada circuito.
 
